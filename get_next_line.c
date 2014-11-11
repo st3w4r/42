@@ -6,7 +6,7 @@
 /*   By: ybarbier <ybarbier@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/10 18:05:23 by ybarbier          #+#    #+#             */
-/*   Updated: 2014/11/10 18:26:42 by ybarbier         ###   ########.fr       */
+/*   Updated: 2014/11/11 13:59:08 by ybarbier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,5 +14,5 @@
 
 int		get_next_line(int const fd, char **line)
 {
-
+	
 }
